@@ -1,8 +1,8 @@
 # Distributed-Computing-Project-2
 Queens College - CSCI 715 Distributed Computing (Professor : Simina Fluture)
 
-                                              Project 2
-                                      Due: Wednesday, May 10th
+                                                       Project 2
+                                               Due: Wednesday, May 10th
 
 This project must be done individually. There will be no exceptions. The purpose of this project is to develop a client/server version of Project 1, a simulation of Remote Procedure Call communication (RPC).
 
